@@ -1,0 +1,13 @@
+*{
+    border: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+nav{
+    float: right;
+    display: block;
+    width: 100%;
+}
+
